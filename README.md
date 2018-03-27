@@ -1,7 +1,14 @@
-# RESERVA DE ESPACIOS PUBLICITARIOS
+# AMERICA TV
+
+Plataforma desarrollada para América TV que busca implementar un sistema de reserva de spots publicitarios valiéndose de la eficiencia de la tecnología.
+
+![logo](https://user-images.githubusercontent.com/32287019/37944122-03ae78b6-3140-11e8-9e43-eed2e42f7347.png)
+
+
+## Desarrollado para [Laboratoria](http://laboratoria.la) 
 
 ## EL RETO:
-Miguel Ángel y Mafe representantes de Innovamerica, nos cuentan el enorme y molesto proceso por el cual se debe pasar antes de vender (en el caso de América) y comprar espacios publicitarios (en el caso de las agencias publicitarias). Es por eso que nace la idea de poder innovar en tecnología en un sector no tan convencional.
+El representantes de Innovamerica y una persona encargada del área comercial nos cuentan el enorme y molesto proceso por el cual se debe pasar antes de vender (en el caso de América) y comprar espacios publicitarios (en el caso de las agencias publicitarias). Es por eso que nace la idea de poder innovar en tecnología en un sector no tan convencional.
 
 ## NUESTRO PROCESO UX :
 
