@@ -2,8 +2,7 @@
 
 Plataforma desarrollada para América TV que busca implementar un sistema de reserva de spots publicitarios valiéndose de la eficiencia de la tecnología.
 
-![logo](https://user-images.githubusercontent.com/32287019/37944122-03ae78b6-3140-11e8-9e43-eed2e42f7347.png)
-
+![login](https://user-images.githubusercontent.com/32287019/38470257-bfffb266-3b25-11e8-802e-29de99fbc12f.png)
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la) 
 
